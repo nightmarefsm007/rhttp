@@ -1,0 +1,2 @@
+Exception has occurred.
+StateError (Bad state: rhttp's codegen version (2.11.1) should be the same as runtime version (2.12.0). See https://cjycode.com/flutter_rust_bridge/guides/miscellaneous/upgrade/regular for details.)
